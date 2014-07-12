@@ -1,5 +1,5 @@
 {
-    "name"        : "wcm/astrofields-comments",
+    "name"        : "WCM/AstroFields/Comments",
     "version"     : "0.1.0",
     "description" : "Comment Fields Extension for the AstroFields framework",
     "keywords"    : [ "wordpress", "forms", "fields" ],
