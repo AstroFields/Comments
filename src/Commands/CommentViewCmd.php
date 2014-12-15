@@ -2,7 +2,6 @@
 
 namespace WCM\AstroFields\Comments\Commands;
 
-use WCM\AstroFields\Core\Receivers\LabelInterface;
 use WCM\AstroFields\PublicForm\Commands\ViewCmd;
 
 /**
